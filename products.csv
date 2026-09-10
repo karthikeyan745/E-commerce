@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,brand,cost_price,selling_price
+PROD0001,JBL Cameras Signature,Electronics,Cameras,JBL,18533.99,21472.0
+PROD0002,JBL Headphones Trendy,Electronics,Headphones,JBL,30045.64,36477.32
+PROD0003,Xiaomi Camera Basic,Electronics,Cameras,Xiaomi,27828.0,33093.93
+PROD0004,Xiaomi Power Bank Classic,Electronics,Power Banks,Xiaomi,23769.44,27955.06
+PROD0005,OnePlus Tablets Neo,Electronics,Tablets,OnePlus,5050.09,5709.26
+PROD0006,JBL Headphones Prime,Electronics,Headphones,JBL,17559.68,20311.27
+PROD0007,Realme Smartwatches Advanced,Electronics,Smartwatches,Realme,3962.9,4425.78
+PROD0008,HP Power Banks Ultra,Electronics,Power Banks,HP,13903.02,16914.19
+PROD0009,OnePlus Laptops Trendy,Electronics,Laptops,OnePlus,16247.92,18812.57
+PROD0010,Xiaomi Smartwatches Prime,Electronics,Smartwatches,Xiaomi,10432.2,12240.03
+PROD0011,Sony Smartphones Advanced,Electronics,Smartphones,Sony,14069.38,15825.79
+PROD0012,Sony Power Bank Comfort,Electronics,Power Banks,Sony,24212.62,26649.88
+PROD0013,OnePlus Laptops Classic,Electronics,Laptops,OnePlus,2329.55,2623.74
+PROD0014,OnePlus Camera Signature,Electronics,Cameras,OnePlus,3579.02,3983.32
+PROD0015,Noise Smartphone Comfort,Electronics,Smartphones,Noise,16571.01,19824.07
+PROD0016,boAt Tablets Compact,Electronics,Tablets,boAt,26598.09,30894.22
+PROD0017,Noise Tablet Neo,Electronics,Tablets,Noise,14620.02,17716.69
+PROD0018,OnePlus Laptops Signature,Electronics,Laptops,OnePlus,19071.65,21178.14
+PROD0019,Dell Cameras Signature,Electronics,Cameras,Dell,28533.86,31777.04
+PROD0020,Noise Smartwatches Trendy,Electronics,Smartwatches,Noise,16844.6,19554.72
+PROD0021,Samsung Smartphone Max,Electronics,Smartphones,Samsung,39591.57,45895.56
+PROD0022,HP Cameras Trendy,Electronics,Cameras,HP,32197.13,39252.75
+PROD0023,JBL Headphones Neo,Electronics,Headphones,JBL,7654.03,8671.77
+PROD0024,Noise Speakers Ultra,Electronics,Speakers,Noise,18966.77,21823.53
+PROD0025,Noise Power Banks Ultra,Electronics,Power Banks,Noise,19673.91,23784.05
+PROD0026,JBL Smartphones Everyday,Electronics,Smartphones,JBL,32703.4,38359.41
+PROD0027,Noise Speakers Ultra,Electronics,Speakers,Noise,15303.03,18346.11
+PROD0028,Noise Smartphone Advanced,Electronics,Smartphones,Noise,43067.6,51618.4
+PROD0029,Samsung Smartwatches Prime,Electronics,Smartwatches,Samsung,2067.3,2431.91
+PROD0030,Realme Speaker Deluxe,Electronics,Speakers,Realme,4198.82,4748.5
+PROD0031,Xiaomi Laptops Pro,Electronics,Laptops,Xiaomi,4559.56,5345.88
+PROD0032,Realme Speakers Elite,Electronics,Speakers,Realme,31523.37,35108.79
+PROD0033,Dell Speakers Neo,Electronics,Speakers,Dell,18505.07,21368.7
+PROD0034,Realme Smartphone Trendy,Electronics,Smartphones,Realme,17869.28,19915.72
+PROD0035,HP Cameras Trendy,Electronics,Cameras,HP,20014.75,23820.38
+PROD0036,HP Headphones Comfort,Electronics,Headphones,HP,5053.33,5607.28
+PROD0037,Sony Cameras Neo,Electronics,Cameras,Sony,17255.17,20930.64
+PROD0038,Sony Smartwatche Comfort,Electronics,Smartwatches,Sony,30748.62,36327.66
+PROD0039,Sony Tablets Essential,Electronics,Tablets,Sony,17562.56,20569.96
+PROD0040,JBL Power Banks Advanced,Electronics,Power Banks,JBL,2435.64,2865.12
+PROD0041,Puma Kids Wear Ultra,Fashion,Kids Wear,Puma,3679.16,5346.35
+PROD0042,Nike Men's Clothing Comfort,Fashion,Men's Clothing,Nike,3532.68,5231.88
+PROD0043,H&M Ethnic Wear Signature,Fashion,Ethnic Wear,H&M,746.07,1138.21
+PROD0044,Puma Women's Clothing Max,Fashion,Women's Clothing,Puma,545.84,782.46
+PROD0045,Allen Solly Footwear Signature,Fashion,Footwear,Allen Solly,825.91,1076.1
+PROD0046,Puma Ethnic Wear Advanced,Fashion,Ethnic Wear,Puma,1861.53,2557.3
+PROD0047,Roadster Women's Clothing Comfort,Fashion,Women's Clothing,Roadster,2098.2,3030.43
+PROD0048,Van Heusen Footwear Smart,Fashion,Footwear,Van Heusen,461.83,614.58
+PROD0049,Allen Solly Women's Clothing Neo,Fashion,Women's Clothing,Allen Solly,2366.98,3280.14
+PROD0050,Nike Kids Wear Deluxe,Fashion,Kids Wear,Nike,2997.94,4386.2
+PROD0051,Levis Women's Clothing Trendy,Fashion,Women's Clothing,Levis,3428.74,5050.96
+PROD0052,Roadster Women's Clothing Max,Fashion,Women's Clothing,Roadster,1890.74,2776.06
+PROD0053,H&M Men's Clothing Everyday,Fashion,Men's Clothing,H&M,1318.91,1815.58
+PROD0054,Biba Kids Wear Lite,Fashion,Kids Wear,Biba,3219.25,4544.31
+PROD0055,Fabindia Kids Wear Pro,Fashion,Kids Wear,Fabindia,3254.01,4899.26
+PROD0056,Fabindia Winterwear Elite,Fashion,Winterwear,Fabindia,3472.98,5310.74
+PROD0057,Biba Kids Wear Advanced,Fashion,Kids Wear,Biba,1894.65,2614.08
+PROD0058,Roadster Kids Wear Ultra,Fashion,Kids Wear,Roadster,2454.14,3418.11
+PROD0059,Puma Footwear Max,Fashion,Footwear,Puma,2523.97,3726.38
+PROD0060,Nike Men's Clothing Deluxe,Fashion,Men's Clothing,Nike,2847.1,3967.83
+PROD0061,Levis Winterwear Premium,Fashion,Winterwear,Levis,917.38,1291.33
+PROD0062,Fabindia Ethnic Wear Max,Fashion,Ethnic Wear,Fabindia,827.6,1260.04
+PROD0063,Biba Ethnic Wear Premium,Fashion,Ethnic Wear,Biba,1579.75,2114.68
+PROD0064,Puma Kids Wear Max,Fashion,Kids Wear,Puma,394.16,576.05
+PROD0065,Puma Men's Clothing Prime,Fashion,Men's Clothing,Puma,2656.54,3679.71
+PROD0066,Allen Solly Winterwear Everyday,Fashion,Winterwear,Allen Solly,565.33,792.82
+PROD0067,Biba Footwear Comfort,Fashion,Footwear,Biba,1451.5,2132.66
+PROD0068,Biba Winterwear Classic,Fashion,Winterwear,Biba,2541.38,3535.44
+PROD0069,Biba Winterwear Smart,Fashion,Winterwear,Biba,1106.2,1711.3
+PROD0070,Allen Solly Women's Clothing Everyday,Fashion,Women's Clothing,Allen Solly,1979.81,2914.42
+PROD0071,Biba Women's Clothing Smart,Fashion,Women's Clothing,Biba,820.05,1165.62
+PROD0072,Fabindia Kids Wear Pro,Fashion,Kids Wear,Fabindia,401.89,573.24
+PROD0073,Adidas Kids Wear Ultra,Fashion,Kids Wear,Adidas,3866.86,5398.34
+PROD0074,Roadster Winterwear Premium,Fashion,Winterwear,Roadster,444.29,581.02
+PROD0075,H&M Winterwear Elite,Fashion,Winterwear,H&M,1735.55,2325.65
+PROD0076,Adidas Winterwear Plus,Fashion,Winterwear,Adidas,386.4,575.37
+PROD0077,Allen Solly Ethnic Wear Premium,Fashion,Ethnic Wear,Allen Solly,1996.54,2739.87
+PROD0078,Biba Women's Clothing Everyday,Fashion,Women's Clothing,Biba,3630.31,4824.81
+PROD0079,Levis Women's Clothing Smart,Fashion,Women's Clothing,Levis,3836.9,5289.13
+PROD0080,Roadster Ethnic Wear Basic,Fashion,Ethnic Wear,Roadster,3587.09,5203.92
+PROD0081,Adidas Footwear Ultra,Fashion,Footwear,Adidas,3358.82,5192.75
+PROD0082,Nike Winterwear Pro,Fashion,Winterwear,Nike,1367.1,2105.72
+PROD0083,Adidas Footwear Deluxe,Fashion,Footwear,Adidas,1741.08,2431.21
+PROD0084,Allen Solly Men's Clothing Basic,Fashion,Men's Clothing,Allen Solly,1559.43,2238.33
+PROD0085,Pigeon Furniture Compact,Home & Kitchen,Furniture,Pigeon,2103.5,2757.15
+PROD0086,Home Centre Bedding Ultra,Home & Kitchen,Bedding,Home Centre,6637.95,8977.03
+PROD0087,Milton Bedding Ultra,Home & Kitchen,Bedding,Milton,10053.7,12950.05
+PROD0088,IKEA Furniture Deluxe,Home & Kitchen,Furniture,IKEA,3837.3,4803.79
+PROD0089,Pigeon Storage Advanced,Home & Kitchen,Storage,Pigeon,2577.1,3122.23
+PROD0090,Godrej Storage Neo,Home & Kitchen,Storage,Godrej,4306.64,5400.74
+PROD0091,Wonderchef Furniture Comfort,Home & Kitchen,Furniture,Wonderchef,11607.08,15223.17
+PROD0092,Home Centre Home Decor Essential,Home & Kitchen,Home Decor,Home Centre,4363.14,5742.3
+PROD0093,IKEA Storage Plus,Home & Kitchen,Storage,IKEA,1928.6,2485.6
+PROD0094,Godrej Kitchen Appliances Trendy,Home & Kitchen,Kitchen Appliances,Godrej,7626.94,9898.09
+PROD0095,IKEA Cookware Lite,Home & Kitchen,Cookware,IKEA,5000.81,6994.98
+PROD0096,Home Centre Cookware Trendy,Home & Kitchen,Cookware,Home Centre,10599.68,14041.2
+PROD0097,IKEA Storage Comfort,Home & Kitchen,Storage,IKEA,6961.72,9218.24
+PROD0098,Pigeon Storage Everyday,Home & Kitchen,Storage,Pigeon,2655.35,3396.27
+PROD0099,Godrej Kitchen Appliances Lite,Home & Kitchen,Kitchen Appliances,Godrej,761.68,986.46
+PROD0100,IKEA Bedding Advanced,Home & Kitchen,Bedding,IKEA,6653.39,8287.13
+PROD0101,Home Centre Cookware Basic,Home & Kitchen,Cookware,Home Centre,11579.14,16001.11
+PROD0102,Godrej Cookware Classic,Home & Kitchen,Cookware,Godrej,8749.08,11432.22
+PROD0103,Wonderchef Kitchen Appliances Basic,Home & Kitchen,Kitchen Appliances,Wonderchef,10478.64,12848.18
+PROD0104,Godrej Kitchen Appliances Ultra,Home & Kitchen,Kitchen Appliances,Godrej,9548.96,11697.13
+PROD0105,Cello Home Decor Pro,Home & Kitchen,Home Decor,Cello,9592.26,12039.76
+PROD0106,Nilkamal Bedding Prime,Home & Kitchen,Bedding,Nilkamal,10561.96,14668.54
+PROD0107,Prestige Cookware Elite,Home & Kitchen,Cookware,Prestige,2040.91,2637.95
+PROD0108,Milton Furniture Comfort,Home & Kitchen,Furniture,Milton,11777.55,15271.73
+PROD0109,Milton Cookware Advanced,Home & Kitchen,Cookware,Milton,10403.51,13709.19
+PROD0110,Cello Cookware Elite,Home & Kitchen,Cookware,Cello,4691.36,5897.77
+PROD0111,Pigeon Storage Elite,Home & Kitchen,Storage,Pigeon,2677.71,3621.23
+PROD0112,Wonderchef Furniture Basic,Home & Kitchen,Furniture,Wonderchef,4822.52,6280.15
+PROD0113,Wonderchef Home Decor Plus,Home & Kitchen,Home Decor,Wonderchef,6060.21,7971.94
+PROD0114,Home Centre Bedding Classic,Home & Kitchen,Bedding,Home Centre,10427.25,14557.98
+PROD0115,Bajaj Bedding Lite,Home & Kitchen,Bedding,Bajaj,5068.74,6921.38
+PROD0116,Home Centre Storage Compact,Home & Kitchen,Storage,Home Centre,9244.98,12154.43
+PROD0117,Mamaearth Personal Care Deluxe,Beauty,Personal Care,Mamaearth,2394.51,3352.6
+PROD0118,Lakme Skincare Ultra,Beauty,Skincare,Lakme,362.23,566.34
+PROD0119,Plum Fragrances Elite,Beauty,Fragrances,Plum,1153.96,1802.19
+PROD0120,LOreal Haircare Basic,Beauty,Haircare,LOreal,2243.42,3063.65
+PROD0121,Mamaearth Makeup Smart,Beauty,Makeup,Mamaearth,2220.32,3246.28
+PROD0122,Nykaa Haircare Max,Beauty,Haircare,Nykaa,1325.04,1996.37
+PROD0123,Maybelline Bath & Body Neo,Beauty,Bath & Body,Maybelline,2323.32,3147.59
+PROD0124,LOreal Skincare Essential,Beauty,Skincare,LOreal,1244.42,1893.92
+PROD0125,Nykaa Skincare Neo,Beauty,Skincare,Nykaa,1834.5,2794.19
+PROD0126,WOW Skin Science Skincare Neo,Beauty,Skincare,WOW Skin Science,422.64,602.2
+PROD0127,Lakme Bath & Body Deluxe,Beauty,Bath & Body,Lakme,960.92,1490.49
+PROD0128,Lakme Bath & Body Compact,Beauty,Bath & Body,Lakme,769.02,1078.69
+PROD0129,LOreal Fragrance Comfort,Beauty,Fragrances,LOreal,2397.88,3242.45
+PROD0130,Mamaearth Skincare Trendy,Beauty,Skincare,Mamaearth,2494.77,3790.07
+PROD0131,LOreal Makeup Prime,Beauty,Makeup,LOreal,2088.33,2973.06
+PROD0132,Forest Essentials Makeup Neo,Beauty,Makeup,Forest Essentials,134.36,206.17
+PROD0133,Biotique Bath & Body Deluxe,Beauty,Bath & Body,Biotique,2101.95,3226.74
+PROD0134,Mamaearth Makeup Trendy,Beauty,Makeup,Mamaearth,442.84,681.25
+PROD0135,Maybelline Haircare Ultra,Beauty,Haircare,Maybelline,1945.41,2946.59
+PROD0136,Lakme Makeup Comfort,Beauty,Makeup,Lakme,1938.68,3027.21
+PROD0137,Mamaearth Personal Care Elite,Beauty,Personal Care,Mamaearth,1572.65,2157.91
+PROD0138,WOW Skin Science Personal Care Max,Beauty,Personal Care,WOW Skin Science,1270.31,1739.58
+PROD0139,Maybelline Makeup Trendy,Beauty,Makeup,Maybelline,1078.1,1565.16
+PROD0140,Maybelline Makeup Elite,Beauty,Makeup,Maybelline,258.42,371.4
+PROD0141,Himalaya Haircare Compact,Beauty,Haircare,Himalaya,366.4,568.67
+PROD0142,Plum Haircare Advanced,Beauty,Haircare,Plum,2374.45,3248.44
+PROD0143,LOreal Haircare Ultra,Beauty,Haircare,LOreal,2392.28,3542.12
+PROD0144,Mamaearth Bath & Body Basic,Beauty,Bath & Body,Mamaearth,818.96,1121.33
+PROD0145,Reebok Fitness Equipment Elite,Sports,Fitness Equipment,Reebok,7659.18,10286.38
+PROD0146,Reebok Yoga Trendy,Sports,Yoga,Reebok,10694.17,12929.69
+PROD0147,Puma Sportswear Deluxe,Sports,Sportswear,Puma,1371.66,1745.46
+PROD0148,Yonex Cycles Everyday,Sports,Cycles,Yonex,4640.77,5763.04
+PROD0149,Adidas Yoga Plus,Sports,Yoga,Adidas,4430.77,5957.73
+PROD0150,Yonex Outdoor Gear Max,Sports,Outdoor Gear,Yonex,13959.65,17769.5
+PROD0151,Puma Cycles Neo,Sports,Cycles,Puma,13619.83,17131.97
+PROD0152,Yonex Fitness Equipment Prime,Sports,Fitness Equipment,Yonex,7303.62,9061.49
+PROD0153,Reebok Footwear Essential,Sports,Footwear,Reebok,9715.0,13369.94
+PROD0154,Yonex Yoga Everyday,Sports,Yoga,Yonex,9171.35,11596.31
+PROD0155,Decathlon Cycles Essential,Sports,Cycles,Decathlon,9822.92,12004.84
+PROD0156,Nivia Footwear Advanced,Sports,Footwear,Nivia,13363.29,17246.06
+PROD0157,Wildcraft Sportswear Essential,Sports,Sportswear,Wildcraft,6905.44,9014.75
+PROD0158,Yonex Yoga Comfort,Sports,Yoga,Yonex,9484.32,11503.72
+PROD0159,Nike Cycles Compact,Sports,Cycles,Nike,10334.47,12851.41
+PROD0160,Adidas Footwear Ultra,Sports,Footwear,Adidas,10795.1,14552.4
+PROD0161,Adidas Cycles Trendy,Sports,Cycles,Adidas,12118.19,15746.98
+PROD0162,Nivia Yoga Advanced,Sports,Yoga,Nivia,7946.5,9740.17
+PROD0163,Yonex Cycles Signature,Sports,Cycles,Yonex,11697.59,14608.58
+PROD0164,Wildcraft Fitness Equipment Deluxe,Sports,Fitness Equipment,Wildcraft,7601.42,9510.66
+PROD0165,Britannia Packaged Food Pro,Grocery,Packaged Food,Britannia,186.58,215.6
+PROD0166,MDH Beverages Prime,Grocery,Beverages,MDH,93.57,109.46
+PROD0167,Haldirams Dairy Classic,Grocery,Dairy,Haldirams,401.58,433.71
+PROD0168,Patanjali Snacks Deluxe,Grocery,Snacks,Patanjali,628.02,681.79
+PROD0169,Parle Snacks Comfort,Grocery,Snacks,Parle,353.12,411.33
+PROD0170,Patanjali Packaged Food Smart,Grocery,Packaged Food,Patanjali,103.35,122.03
+PROD0171,Parle Dairy Basic,Grocery,Dairy,Parle,34.47,38.25
+PROD0172,Patanjali Snack Premium,Grocery,Snacks,Patanjali,896.86,1002.65
+PROD0173,Parle Personal Hygiene Premium,Grocery,Personal Hygiene,Parle,149.21,167.6
+PROD0174,Tata Personal Hygiene Trendy,Grocery,Personal Hygiene,Tata,346.36,409.09
+PROD0175,Amul Staples Max,Grocery,Staples,Amul,396.62,465.9
+PROD0176,Britannia Dairy Deluxe,Grocery,Dairy,Britannia,1073.49,1215.25
+PROD0177,Britannia Staple Pro,Grocery,Staples,Britannia,1094.63,1231.76
+PROD0178,Patanjali Dairy Max,Grocery,Dairy,Patanjali,1157.97,1263.01
+PROD0179,Fortune Personal Hygiene Advanced,Grocery,Personal Hygiene,Fortune,833.81,949.92
+PROD0180,Parle Packaged Food Pro,Grocery,Packaged Food,Parle,483.55,558.95
+PROD0181,MDH Staples Comfort,Grocery,Staples,MDH,853.51,922.24
+PROD0182,MDH Staples Smart,Grocery,Staples,MDH,225.34,262.65
+PROD0183,Tata Beverages Trendy,Grocery,Beverages,Tata,809.67,968.31
+PROD0184,ITC Packaged Food Premium,Grocery,Packaged Food,ITC,920.41,1099.05
+PROD0185,Fastrack Bag Trendy,Accessories,Bags,Fastrack,5679.82,7722.34
+PROD0186,American Tourister Watche Trendy,Accessories,Watches,American Tourister,1021.85,1488.19
+PROD0187,Ray-Ban Jewellery Compact,Accessories,Jewellery,Ray-Ban,5224.36,6842.02
+PROD0188,Da Milano Bags Compact,Accessories,Bags,Da Milano,3008.39,4486.59
+PROD0189,Wildcraft Watches Ultra,Accessories,Watches,Wildcraft,4103.13,5689.18
+PROD0190,Titan Bags Plus,Accessories,Bags,Titan,3770.06,5058.58
+PROD0191,Casio Belt Advanced,Accessories,Belts,Casio,3075.92,4226.2
+PROD0192,Fossil Bags Plus,Accessories,Bags,Fossil,608.37,884.27
+PROD0193,Da Milano Belts Prime,Accessories,Belts,Da Milano,3448.73,5050.44
+PROD0194,Casio Bag Max,Accessories,Bags,Casio,6832.71,9172.22
+PROD0195,American Tourister Wallet Advanced,Accessories,Wallets,American Tourister,5327.36,7428.77
+PROD0196,Ray-Ban Bags Comfort,Accessories,Bags,Ray-Ban,7065.22,9489.64
+PROD0197,Fossil Bag Everyday,Accessories,Bags,Fossil,5486.94,7799.96
+PROD0198,American Tourister Watches Classic,Accessories,Watches,American Tourister,2503.35,3322.75
+PROD0199,Caprese Wallet Plus,Accessories,Wallets,Caprese,5282.79,7648.0
+PROD0200,Wildcraft Sunglasses Prime,Accessories,Sunglasses,Wildcraft,2661.89,3803.75
